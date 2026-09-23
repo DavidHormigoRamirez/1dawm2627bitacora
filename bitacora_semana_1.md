@@ -8,11 +8,9 @@
 
 ## 🎵 La Canción de la Semana
 
-*Porque programar con buena música (o sin letra repetitiva) es todo un arte. ¡Dale al play mientras revisas código!*
-
 * **Título y Artista:** "Septiembre aún es Verano" de Airbag
 * **Vínculo musical:** [Escuchar en Spotify](https://open.spotify.com/intl-es/track/1DMIlOTQgVhNVwQVqlVbtO?si=e6118f8466db44b1)
-* **Por qué suena esta semana:** Hemos comenzado el curso todavía en verano
+* **Por qué suena esta semana:** Hemos comenzado el curso todavía en verano y este grupo son de mi pueblo ;)
 
 ---
 
@@ -24,31 +22,22 @@
 
 ## 💡 El rincón del "¡Ajá!" (Momentos destacados)
 
-*Aquí comparto los descubrimientos, patrones o errores comunes que hemos superado juntos en clase.*
-
 > *La única forma de aprender un nuevo lenguaje de programación es escribiendo programas en él."
 > *Dennis Ritchie, creador de C y Unix*
+
+No os olvideis de cerrar cada instrucción con ;
 
 ## 🛠️ Prácticas y Retos de la Semana
 
 *Repaso de las actividades propuestas y su conexión con el mundo real.*
 
-* **Práctica principal:** \[Nombre o descripción de la actividad\]
-  * *¿Por qué es útil?:* \[Breve explicación de su aplicación práctica\]
-* **Reto opcional / Avanzado:** \[Para quienes querían ir un paso más allá\]
+* **Práctica principal:** Construir diagrama de flujo calcular IMC
+  * *¿Por qué es útil?:* Nos permite empezar a conocer como estructurar un programa
+* **Reto opcional / Avanzado:** Existe multitud de documentación de diagramas de flujo con otras figuras. Puedes investigar como incluir bases de datos o ficheros.
 
 
 ## 🚀 Próximos Pasos (Lo que viene la semana que viene)
 
 *Un vistazo rápido al horizonte para que os podáis preparar.*
 
-* **Próximo tema:** \[Nombre del siguiente bloque\]
-* **Lecturas o recursos recomendados:**
-  * \[Enlace o referencia 1\]
-  * \[Enlace o referencia 2\]
-
-## 💬 Reflexión final
-
-*Un espacio más cercano para hablar de motivación, esfuerzo, organización o consejos para estudiar programación sin morir en el intento.*
-
-\[Escribe aquí unas líneas de ánimo, recordatorios sobre la importancia de la paciencia al depurar código, o consejos sobre cómo plantear las dudas en clase\].
+* **Próximo tema:** Variables, tipos, operaciones
