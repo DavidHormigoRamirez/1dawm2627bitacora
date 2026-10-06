@@ -2,3 +2,5 @@
 
 * [Semana 1](bitacora_semana_1.md)
 * [Semana 2](bitacora_semana_2.md)
+* [Semana 3](bitacora_semana_3.md)
+* [Semana 4](#)
